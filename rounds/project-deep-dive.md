@@ -67,3 +67,4 @@ A panelist may act less technical or impatient. Answer in the customer's terms: 
 - [Grokking the Forward Deployed Engineer Interview](https://www.designgurus.io/course/grokking-the-forward-deployed-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-project-deep-dive) has four lessons on deep dives and presentations, including presenting to executives.
 - The staff-level version of this round is in [staff-engineer-interview](https://github.com/design-gurus/staff-engineer-interview).
 - Related round: [the take-home project](take-home-project.md).
+- Free answer: [How to explain past projects in software engineering interviews](https://www.designgurus.io/answers/detail/how-to-explain-past-projects-in-software-engineering-interviews?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-project-deep-dive), a structure for describing a project.

@@ -59,3 +59,4 @@ When a tool is allowed, the code it writes is graded as the candidate's own. If 
 - [Grokking the Forward Deployed Engineer Interview](https://www.designgurus.io/course/grokking-the-forward-deployed-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-practical-coding) has a chapter on practical coding with runnable exercises for each of the four task types.
 - For the "vibe coding" format, see [Google](../companies/google.md).
 - Related rounds: [learning](learning-round.md) and [re-engineering](re-engineering-round.md).
+- Free answer: [What is the Google FDE vibe coding round?](https://www.designgurus.io/answers/detail/what-is-the-google-fde-vibe-coding-round-how-it-works-and-how-to-prepare?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-practical-coding), how the round works and how to prepare.

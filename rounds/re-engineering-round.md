@@ -64,3 +64,4 @@ The whole chain takes about ten minutes when the steps are followed in order. A 
 - [Grokking the Forward Deployed Engineer Interview](https://www.designgurus.io/course/grokking-the-forward-deployed-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-re-engineering-round) teaches the five-step method and has four runnable broken services to repair.
 - Related round: [the learning round](learning-round.md).
 - Related page: [practical coding](practical-coding.md).
+- Free answer: [Strategies for debugging code in interviews](https://www.designgurus.io/answers/detail/what-are-the-strategies-for-debugging-code-in-interviews?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-re-engineering-round), general debugging methods for a live interview.

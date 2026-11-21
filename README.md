@@ -94,6 +94,17 @@ A solutions architect usually designs and advises before and during a sale, and 
 
 About 8 hours a week for four weeks, or 32 hours, is enough for an engineer who already codes comfortably. More than a third of that time should go to decomposition, because it appears in nearly every loop in some form. The [four-week plan](cheat-sheets/four-week-plan.md) gives the split.
 
+## Free reading on DesignGurus.io
+
+- Free answer: [What is the forward deployed engineer interview process like, round by round?](https://www.designgurus.io/answers/detail/what-is-the-forward-deployed-engineer-interview-process-like-round-by-round?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): the whole loop in one page.
+- Free answer: [Forward deployed engineer vs. solutions architect vs. software engineer](https://www.designgurus.io/answers/detail/forward-deployed-engineer-vs-solutions-architect-vs-software-engineer-what-is-the-difference?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): how the three roles and their interviews differ.
+- Free answer: [What is the Palantir decomposition interview?](https://www.designgurus.io/answers/detail/what-is-the-palantir-decomposition-interview-how-the-fde-round-works?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): how the best-known FDE round works.
+- Free answer: [What is the Anthropic forward deployed engineer interview like, round by round?](https://www.designgurus.io/answers/detail/what-is-the-anthropic-forward-deployed-engineer-interview-like-round-by-round?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): the Anthropic loop.
+- Free answer: [What is the OpenAI forward deployed engineer interview like, round by round?](https://www.designgurus.io/answers/detail/what-is-the-openai-forward-deployed-engineer-interview-like-round-by-round?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): the OpenAI loop.
+- Free answer: [What is the Google FDE vibe coding round?](https://www.designgurus.io/answers/detail/what-is-the-google-fde-vibe-coding-round-how-it-works-and-how-to-prepare?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): how the round works and how to prepare.
+- Free article: [AI system design interview: the complete guide](https://www.designgurus.io/blog/ai-system-design-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): preparation for the applied AI design round.
+- Free article: [System design for RAG](https://www.designgurus.io/blog/system-design-for-rag?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=readme): vector databases, chunking, and re-ranking for retrieval.
+
 ## Go deeper
 
 This repository is an index. The courses hold the worked material.
