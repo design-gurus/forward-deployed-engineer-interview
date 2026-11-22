@@ -128,6 +128,8 @@ This repository is an index. The courses hold the worked material.
 
 Related free repositories: [grokking-ai-system-design](https://github.com/design-gurus/grokking-ai-system-design), [solutions-architect-interview](https://github.com/design-gurus/solutions-architect-interview), and [staff-engineer-interview](https://github.com/design-gurus/staff-engineer-interview).
 
+For the system design round, see [Grokking System Design](https://github.com/design-gurus/grokking-system-design), the free companion guide with 30 patterns, 59 question walkthroughs, and 35 cheat sheets.
+
 ## Contributing
 
 Corrections and reports of how a round was run are welcome. Read [CONTRIBUTING.md](CONTRIBUTING.md) first. This guide is independent and is not affiliated with any company it names.
