@@ -53,5 +53,8 @@ Choose a library never used before. Set a timer for 45 minutes and build one sma
 ## Go deeper
 
 - [Grokking the Forward Deployed Engineer Interview](https://www.designgurus.io/course/grokking-the-forward-deployed-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-learning-round) has two method lessons and four runnable staged exercises on a small claims service.
+- Lesson: [Reading an Unfamiliar Codebase](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/reading-an-unfamiliar-codebase?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-learning-round), in Grokking the Forward Deployed Engineer Interview
+- Lesson: [Asking Good Questions About Code You Did Not Write](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/asking-good-questions-about-code-you-did-not-write?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-learning-round), in Grokking the Forward Deployed Engineer Interview
+- Lesson: [Exercise: Adding a Field to the Claims Service](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/exercise-adding-a-field-to-the-claims-service?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-learning-round), in Grokking the Forward Deployed Engineer Interview
 - Related round: [re-engineering](re-engineering-round.md), where the unfamiliar code is also broken.
 - Company page: [Palantir](../companies/palantir.md).

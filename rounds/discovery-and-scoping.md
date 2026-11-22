@@ -58,5 +58,8 @@ Say the out-of-scope line aloud. Leaving something out is a decision, and the in
 ## Go deeper
 
 - [Grokking the Forward Deployed Engineer Interview](https://www.designgurus.io/course/grokking-the-forward-deployed-engineer-interview?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-discovery-and-scoping) has six lessons on discovery and scoping, including mapping a customer's data and writing the one-page scope.
+- Lesson: [Finding the User and the Decision](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/finding-the-user-and-the-decision?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-discovery-and-scoping), in Grokking the Forward Deployed Engineer Interview
+- Lesson: [Questions for the First Ten Minutes](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/questions-for-the-first-ten-minutes?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-discovery-and-scoping), in Grokking the Forward Deployed Engineer Interview
+- Lesson: [Writing a One-Page Scope](https://www.designgurus.io/course-play/grokking-the-forward-deployed-engineer-interview/doc/writing-a-one-page-scope?utm_source=github&utm_medium=repo&utm_campaign=forward-deployed-engineer-interview&utm_content=rounds-discovery-and-scoping), in Grokking the Forward Deployed Engineer Interview
 - Next page: [decomposition](decomposition.md), where these steps open the round.
 - The same skills in a pre-sales role: [solutions-architect-interview](https://github.com/design-gurus/solutions-architect-interview).
